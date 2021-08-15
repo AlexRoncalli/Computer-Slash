@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CameraFollow : MonoBehaviour
+public class cameraFollow : MonoBehaviour
 {
     //Script para a camera seguir o jogador
     private Transform target;
